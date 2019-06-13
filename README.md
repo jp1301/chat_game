@@ -1,0 +1,2 @@
+# chat_game
+This project is at its core a chatbot, but unlike other chatbots, this project will use the user's inputs as a ways of setting up a small simulation of a soccer tournament based on soccer trivia. To explain, the user will select a team, then they will 'play' against the chatbot's teams by answering the questions. If the user fails to answer the questions they lose, but the is a secrete way to bypass all the questions, but it puts the user in a due or die situation where the game could end after it had just begun.
